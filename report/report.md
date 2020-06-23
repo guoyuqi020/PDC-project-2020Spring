@@ -2,6 +2,10 @@
 
 郭宇祺 1700012785
 
+## 代码地址
+
+代码文件夹已经放在服务器ceca19的个人文件夹下，或者可以访问[我的Github仓库](https://github.com/guoyuqi020/PDC-project-2020Spring)获取。服务器的文件夹内包含数据文件，但是不包含报告和short survey，而GitHub仓库不包含数据文件，但是包含报告和short survey。
+
 ## 1.问题描述
 
 对于一棵具有N个节点的树T，根节点编号为0，自树根至树叶的编号呈现深度优先次序。每个节点具有以下六种属性(括号内为缩写)：index(id)，upper(l)，diagonal(d)，right-side-hand(rhs)，parent(p)，其中，parent代表的是父节点的id。
