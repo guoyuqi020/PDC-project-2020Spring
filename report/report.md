@@ -2,9 +2,11 @@
 
 郭宇祺 1700012785
 
-## 代码地址
+## 说明
 
 代码文件夹已经放在服务器ceca19的个人文件夹下，或者可以访问[我的Github仓库](https://github.com/guoyuqi020/PDC-project-2020Spring)获取。服务器的文件夹内包含数据文件，但是不包含报告和short survey，而GitHub仓库不包含数据文件，但是包含报告和short survey。
+
+本次任务中我采用MPI框架实现对应功能。
 
 ## 1.问题描述
 
